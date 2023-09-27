@@ -1,5 +1,5 @@
 # Guilherme da Silva Baptista    
-Olá, sou o Guilherme, tenho 19 anos e estou iniciando na carreira de DEV 
+Olá, sou o Guilherme, tenho 19 anos, curso Analise e Desenvolvimento de Sistemas 
 
 ### Conecte-se comigo
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/Guis.baptista/)

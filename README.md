@@ -4,7 +4,7 @@ Olá, sou o Guilherme, tenho 20 anos, sou Desenvolvedor FullStack e estudante de
 
 ### Conecte-se comigo
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/Guis.baptista/)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/guilherme-baptista-095981292/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/guilherme-baptista-10265b223/)
 
 
 ### 🖥Habilidades

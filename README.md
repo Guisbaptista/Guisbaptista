@@ -1,5 +1,6 @@
 # Guilherme da Silva Baptista    
-Olá, sou o Guilherme, tenho 20 anos,sou Desenvolvedor FullStack e estudante de (ADS)Analise e Desenvolvimento de Sistemas.
+Olá, sou o Guilherme, tenho 20 anos, sou Desenvolvedor FullStack e estudante de (ADS)Analise e Desenvolvimento de Sistemas.
+
 
 ### Conecte-se comigo
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/Guis.baptista/)

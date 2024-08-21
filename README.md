@@ -1,5 +1,5 @@
 # Guilherme da Silva Baptista    
-Olá, sou o Guilherme, tenho 20 anos, sou Desenvolvedor FullStack e estudante de (ADS)Analise e Desenvolvimento de Sistemas.
+Tenho 20 anos e sou um desenvolvedor Full Stack apaixonado por tecnologia. Estou sempre em busca de aprimorar minhas habilidades e oferecer soluções eficazes e inovadoras. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas, o que tem enriquecido meu conhecimento técnico e minha capacidade de resolver problemas complexos.
 
 
 ### Conecte-se comigo
